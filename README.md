@@ -1,6 +1,6 @@
 # Fibonacci Sequence Generator
 
-This script generates the Fibonacci sequence up to a specified number of terms entered by the user.
+This script generates the Fibonacci sequence up to a specified number of terms entered by the user
 
 ## Features
 - Prompts the user to input the number of terms.
