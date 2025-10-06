@@ -13,7 +13,7 @@ This script generates the Fibonacci sequence up to a specified number of terms e
 3. View the generated Fibonacci sequence.
 
 ## Requirements
-- Python 3.x
+- Python 3.x.x
 
 ## License
 This project is licensed under the [MIT License](LICENSE). See the [LICENSE](LICENSE) file for details.
