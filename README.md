@@ -16,4 +16,4 @@ This script generates the Fibonacci sequence up to a specified number of terms e
 - Python 3.x.x
 
 ## License
-This project is licensed under the [MIT License](LICENSE). See the [LICENSE](LICENSE) file for details.
+This project is licensed under the [MIT License](LICENSE). See the [LICENSE](LICENSE) file for details
